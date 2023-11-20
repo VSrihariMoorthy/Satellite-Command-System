@@ -1,0 +1,138 @@
+Nov 20, 2023 9:05:22 PM Satellite activatePanels
+INFO: Solar panels activated
+Nov 20, 2023 9:05:36 PM Satellite collectData
+INFO: Data collected successfully
+Nov 20, 2023 9:05:48 PM Satellite rotate
+INFO: Satellite rotated to South
+Nov 20, 2023 9:06:02 PM Satellite rotate
+INFO: Satellite rotated to East
+Nov 20, 2023 9:06:23 PM Satellite deactivatePanels
+INFO: Solar panels deactivated
+Nov 20, 2023 9:06:44 PM Satellite collectData
+WARNING: Cannot collect data. Solar panels are inactive
+Nov 20, 2023 9:06:57 PM Satellite rotate
+SEVERE: Invalid direction provided.
+Nov 20, 2023 9:07:18 PM SatelliteControl main
+SEVERE: Invalid command sequence: deactivatePanesl
+Nov 20, 2023 9:07:36 PM SatelliteControl main
+SEVERE: Invalid command sequence: deactivatePanel
+Nov 20, 2023 9:07:57 PM Satellite deactivatePanels
+WARNING: Solar panels are already inactive
+Nov 20, 2023 9:08:09 PM Satellite activatePanels
+INFO: Solar panels activated
+Nov 20, 2023 9:15:44 PM Satellite rotate
+INFO: Satellite rotated to South
+Nov 20, 2023 9:15:44 PM Satellite activatePanels
+INFO: Solar panels activated
+Nov 20, 2023 9:15:44 PM Satellite collectData
+INFO: Data collected successfully
+Nov 20, 2023 9:17:32 PM Satellite rotate
+INFO: Satellite rotated to South
+Nov 20, 2023 9:17:32 PM Satellite activatePanels
+INFO: Solar panels activated
+Nov 20, 2023 9:17:32 PM Satellite deactivatePanels
+INFO: Solar panels deactivated
+Nov 20, 2023 9:17:32 PM Satellite collectData
+WARNING: Cannot collect data. Solar panels are inactive
+Nov 20, 2023 9:26:35 PM Satellite rotate
+INFO: Satellite rotated to South
+Nov 20, 2023 9:26:35 PM Satellite deactivatePanels
+WARNING: Solar panels are already inactive
+Nov 20, 2023 9:26:35 PM Satellite collectData
+WARNING: Cannot collect data. Solar panels are inactive
+Nov 20, 2023 9:26:58 PM Satellite rotate
+INFO: Satellite rotated to South
+Nov 20, 2023 9:26:59 PM Satellite deactivatePanels
+WARNING: Solar panels are already inactive
+Nov 20, 2023 9:26:59 PM Satellite collectData
+WARNING: Cannot collect data. Solar panels are inactive
+Nov 20, 2023 9:56:03 PM Satellite rotate
+INFO: Satellite rotated to South
+Nov 20, 2023 9:56:17 PM Satellite rotate
+WARNING: Satellite is already facing South
+Nov 20, 2023 9:57:21 PM Satellite rotate
+INFO: Satellite rotated to North
+Nov 20, 2023 9:57:21 PM SatelliteControl main
+SEVERE: Invalid command sequence: collectdata
+Nov 20, 2023 9:57:21 PM Satellite activatePanels
+INFO: Solar panels activated
+Nov 20, 2023 10:12:31 PM Satellite rotate
+WARNING: Satellite is already facing North
+Nov 20, 2023 10:17:12 PM Satellite collectData
+WARNING: Cannot collect data. Solar panels are inactive
+Nov 20, 2023 10:17:12 PM Satellite rotate
+WARNING: Satellite is already facing North
+Nov 20, 2023 10:37:27 PM Satellite collectData
+WARNING: Cannot collect data. Solar panels are inactive
+Nov 20, 2023 10:37:27 PM Satellite rotate
+WARNING: Satellite is already facing North
+Nov 20, 2023 10:37:58 PM SatelliteControl main
+SEVERE: Invalid command sequence: collectdata
+Nov 20, 2023 10:51:41 PM Satellite rotate
+SEVERE: Invalid direction provided.
+Nov 20, 2023 10:51:41 PM Satellite activatePanels
+INFO: Solar panels activated
+Nov 20, 2023 11:00:28 PM Satellite rotate
+SEVERE: Invalid direction provided.
+Nov 20, 2023 11:02:07 PM Satellite activatePanels
+INFO: Solar panels activated
+Nov 20, 2023 11:02:07 PM Satellite deactivatePanels
+INFO: Solar panels deactivated
+Nov 20, 2023 11:02:44 PM Satellite rotate
+WARNING: Satellite is already facing North
+Nov 20, 2023 11:02:44 PM Satellite collectData
+WARNING: Cannot collect data. Solar panels are inactive
+Nov 20, 2023 11:02:44 PM Satellite rotate
+INFO: Satellite rotated to South
+Nov 20, 2023 11:02:44 PM Satellite deactivatePanels
+WARNING: Solar panels are already inactive
+Nov 20, 2023 11:10:45 PM Satellite rotate
+INFO: Satellite rotated to South
+Nov 20, 2023 11:10:45 PM Satellite collectData
+SEVERE: Cannot collect data. Solar panels are inactive
+Nov 20, 2023 11:11:16 PM Satellite activatePanels
+INFO: Solar panels activated
+Nov 20, 2023 11:12:01 PM Satellite collectData
+INFO: Data collected successfully
+Nov 20, 2023 11:12:55 PM Satellite rotate
+INFO: Satellite rotated to West
+Nov 20, 2023 11:12:55 PM Satellite collectData
+INFO: Data collected successfully
+Nov 20, 2023 11:12:55 PM SatelliteControl main
+SEVERE: Invalid command sequence: deactivatePanel
+Nov 20, 2023 11:13:40 PM Satellite rotate
+INFO: Satellite rotated to West
+Nov 20, 2023 11:13:41 PM Satellite collectData
+SEVERE: Cannot collect data. Solar panels are inactive
+Nov 20, 2023 11:14:40 PM Satellite activatePanels
+INFO: Solar panels activated
+Nov 20, 2023 11:16:45 PM Satellite activatePanels
+WARNING: Solar panels are already active
+Nov 20, 2023 11:16:45 PM Satellite rotate
+INFO: Satellite rotated to East
+Nov 20, 2023 11:16:45 PM Satellite collectData
+INFO: Data collected successfully
+Nov 20, 2023 11:16:45 PM Satellite deactivatePanels
+INFO: Solar panels deactivated
+Nov 20, 2023 11:16:45 PM Satellite rotate
+INFO: Satellite rotated to South
+Nov 20, 2023 11:16:45 PM Satellite activatePanels
+INFO: Solar panels activated
+Nov 20, 2023 11:16:45 PM Satellite collectData
+INFO: Data collected successfully
+Nov 20, 2023 11:16:45 PM Satellite deactivatePanels
+INFO: Solar panels deactivated
+Nov 20, 2023 11:16:45 PM Satellite rotate
+INFO: Satellite rotated to West
+Nov 20, 2023 11:16:45 PM Satellite activatePanels
+INFO: Solar panels activated
+Nov 20, 2023 11:16:45 PM Satellite collectData
+INFO: Data collected successfully
+Nov 20, 2023 11:16:45 PM Satellite deactivatePanels
+INFO: Solar panels deactivated
+Nov 20, 2023 11:16:45 PM Satellite rotate
+INFO: Satellite rotated to North
+Nov 20, 2023 11:16:45 PM Satellite activatePanels
+INFO: Solar panels activated
+Nov 20, 2023 11:16:45 PM Satellite collectData
+INFO: Data collected successfully
